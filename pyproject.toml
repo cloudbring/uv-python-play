@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastapi>=0.112",
+    "jupyter>=1.0.0",
 ]
 
 [build-system]
